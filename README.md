@@ -1,6 +1,6 @@
-# skin_care
+# BMI APP
 
-A new Flutter project.
+Simple BMI APP.
 
 ## Getting Started
 
